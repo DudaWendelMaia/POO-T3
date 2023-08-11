@@ -1,3 +1,4 @@
+Exercicio desenvolvido para o trabalho 3 da cadeira de Programação Orientada a Objetos
 
 # Exercício de Avaliação 3
 ### 1. Enunciado geral:
