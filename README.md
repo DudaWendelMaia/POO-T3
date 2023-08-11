@@ -1,3 +1,4 @@
+
 ## Exercício de Avaliação 3
 1. Enunciado geral:
 Desenvolver uma aplicação gráfica, em linguagem de
